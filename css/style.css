@@ -88,3 +88,22 @@ button:hover {
 h2 {
     margin-bottom: 15px;
 }
+
+#missions{
+    margin-top: 60%;
+}
+
+.mission-card {
+    border:1px solid grey;
+    padding: 15px;
+    margin-top:20px;
+    width:250px;
+}
+
+.mission-card h3{
+    margin-bottom: 10px;
+}
+
+.mission-card p{
+    margin:10px 0;
+}
