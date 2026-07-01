@@ -127,3 +127,12 @@ h2 {
 .reward{
     background-color: #e9f4ff;
 }
+
+#achievements ul{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+#achievements li{
+    margin-bottom: 12px;
+}
